@@ -71,3 +71,15 @@ Product         | Monthly Sales History
 laptop          | $1200.00, $1500.00, $900.00, $1800.00   
 mouse           | $300.00, $250.00, $400.00, $350.00     
 =========================================================
+Acknowledgments
+Special recognition and gratitude are extended to the following institutions and mentors for their invaluable technical guidance, infrastructural support, and academic oversight during the deployment of this architecture:
+
+SeedHub Platform: For providing an advanced educational ecosystem and professional technical resources.
+
+BayTech Company: For nurturing industry-standard development paradigms and operational excellence.
+
+Eng. Sanad Jaber: For exceptional mentorship, algorithmic review, and continuous architectural guidance.
+
+Eng. Mohammed Mwafi: For technical supervision, optimization insights, and fostering rigorous engineering practices.
+
+Developed under academic engineering standards for Python-based foundational system deployments.
